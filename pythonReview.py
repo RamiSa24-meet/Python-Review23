@@ -32,6 +32,7 @@ def check():
 	add_comment(dict,'rami11','I love this video')
 	add_495(dict)
 	print(dict['like'])
+	print(dict['username'])
 
 def add_495(dicionary):
 	for  x in range(495):
